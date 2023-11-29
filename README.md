@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tamal Mallick
 #### I am Backend Focus Full Stack Developer
-I am a Backend focus Full-stack developer. Currently, I am working as a front-end developer at Sayheyinc. I love codding. Codding is my passion. I love exploring new technology. I am passionate about my work. 
+Currently, I am working as a front-end developer at Sayheyinc. I love codding. Codding is my passion. I love exploring new technology. I am passionate about my work. 
 
 Skills: HTML, CSS, Javascript, React Js, Next Js, Redux, RTK Query, Python, Django, DRF, MySQL, C, C++, Node, Express, MongoDB
 
