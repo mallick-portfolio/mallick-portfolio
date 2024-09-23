@@ -2,9 +2,18 @@
 
 ###
 
-<h2 align="center">A passionate Software Engineer</h2>
+<h3 align="center">A passionate Software Engineer</h3>
+
+###
+
 <p align="left">🔭 Currently working on Web Applications<br>💬Ask me about Python, JavaScript, Django, Docker<br>📚 I'm currently learning Kubernetes</p>
-<h2 align="left">Connect with me:</h2>
+
+###
+
+<h3 align="left">Connect with me:</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/tamal-mallick08/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -16,7 +25,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-<h2 align="left">Languages :</h2>
+
+###
+
+<h3 align="left">Languages :</h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -30,13 +45,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
-<h2 align="left">Backend Stack:</h2>
+
+###
+
+<h3 align="left">Backend Stack:</h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
-<h2 align="left">Database:</h2>
+
+###
+
+<h3 align="left">Database:</h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -46,7 +73,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
-<h2 align="left">Frontend Stack:</h2>
+
+###
+
+<h3 align="left">Frontend Stack:</h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -62,7 +95,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
 </div>
-<h2 align="left">Tools & Other Skills:</h2>
+
+###
+
+<h3 align="left">Tools & Other Skills:</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -74,8 +113,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
-<h2 align="left">Testing:</h2>
+
+###
+
+<h3 align="left">Testing:</h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
+###
