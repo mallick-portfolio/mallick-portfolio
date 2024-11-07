@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on Web Applications<br>💬Ask me about Python, JavaScript, Django, Docker<br>📚 I'm currently learning Kubernetes</p>
+<p align="left">🔭 Currently working on Web Applications<br>💬Ask me about Python, JavaScript, Django, Next Js, Docker, Kubernetes<br>📚 I'm currently learning Elasticsearch</p>
 
 ###
 
